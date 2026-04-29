@@ -49,7 +49,6 @@ enrollment-forecasting/
 ├── reports/
 │   ├── sweetviz_report.html
 │
-├── requirements.txt
 └── README.md
 ```
 
@@ -121,7 +120,6 @@ enrollment-forecasting/
 ```bash
 git clone https://github.com/athhh07/AI-Driven-Enrollment-Forcasting-and-Resource-Optimization.git
 cd enrollment-forecasting
-pip install -r requirements.txt
 jupyter notebook
 ```
 
